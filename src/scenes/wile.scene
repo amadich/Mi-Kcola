@@ -1,0 +1,332 @@
+{
+    "id": "ace1aa7d-5c1f-47a9-a5c8-60a64b91bd08",
+    "sceneType": "SCENE",
+    "settings": {
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "wile"
+    },
+    "displayList": [
+        {
+            "type": "Rectangle",
+            "id": "914171f3-1eea-4ab0-be48-dcdcceec7882",
+            "label": "sky_bg",
+            "components": [],
+            "x": 469,
+            "y": 318,
+            "scaleX": 8,
+            "scaleY": 6,
+            "isFilled": true,
+            "fillColor": "#5ecce0",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "type": "Image",
+            "id": "0b6bf4fd-7423-40d1-862b-3b4ea638c3d6",
+            "label": "bg_cloud6",
+            "components": [],
+            "texture": {
+                "key": "bg_cloud6"
+            },
+            "x": 260,
+            "y": 165
+        },
+        {
+            "type": "Image",
+            "id": "fa53338f-463a-4322-873a-562f42d162a5",
+            "label": "bg_cloud2",
+            "components": [],
+            "texture": {
+                "key": "bg_cloud2"
+            },
+            "x": 831,
+            "y": 190
+        },
+        {
+            "type": "Image",
+            "id": "53f2c705-22fd-43d5-93dd-11f4303488c0",
+            "label": "bg_cloud01",
+            "components": [],
+            "texture": {
+                "key": "bg_cloud01"
+            },
+            "x": 514,
+            "y": -26
+        },
+        {
+            "type": "Image",
+            "id": "cbf60332-9f32-40d4-b775-2f2dd9d3d46e",
+            "label": "bg_cloud5",
+            "components": [],
+            "texture": {
+                "key": "bg_cloud5"
+            },
+            "x": 638,
+            "y": 288,
+            "scaleX": 0.6,
+            "scaleY": 0.6
+        },
+        {
+            "type": "TilemapLayer",
+            "id": "bd9fb3e2-498d-460a-9e92-0673ede35cae",
+            "label": "grass_1",
+            "components": [],
+            "tilemapId": "7343da4a-a401-461d-9a9a-3d58c0f4568a",
+            "layerName": "grass",
+            "tilesets": [
+                "Jungle_terrain"
+            ]
+        },
+        {
+            "type": "TilemapLayer",
+            "id": "2453ff23-7bd7-44e7-9ba9-afff0b9e9dc6",
+            "label": "block_y_1",
+            "components": [],
+            "tilemapId": "2ab33974-91cf-4a11-ab64-b75921256b32",
+            "layerName": "block_y",
+            "tilesets": [
+                "Jungle_terrain"
+            ]
+        },
+        {
+            "type": "TilemapLayer",
+            "id": "ab925788-a8da-4bbe-9852-c36febc7f4b4",
+            "label": "sea_m_1",
+            "components": [],
+            "tilemapId": "371eb0b7-769b-4b53-afa3-bc8d78d5276f",
+            "layerName": "sea_m",
+            "tilesets": [
+                "Jungle_terrain"
+            ]
+        },
+        {
+            "type": "TilemapLayer",
+            "id": "18588245-6258-4b96-b22b-493b2e691e59",
+            "label": "bg_tree_1",
+            "components": [],
+            "tilemapId": "d59cef0e-0417-423a-892a-7a5dab04206f",
+            "layerName": "bg_tree",
+            "tilesets": [
+                "Jungle_terrain"
+            ]
+        },
+        {
+            "type": "TilemapLayer",
+            "id": "4a9195bc-eb94-49f8-9d4d-a4aa8bf57d2d",
+            "label": "bg2_tree_1",
+            "components": [],
+            "tilemapId": "ee366ac6-b4fc-47d7-b788-b475bf9416f4",
+            "layerName": "bg2_tree",
+            "tilesets": [
+                "Jungle_terrain"
+            ]
+        },
+        {
+            "type": "TilemapLayer",
+            "id": "d68971e3-5a89-49c4-bc92-94245f963e83",
+            "label": "tree_1",
+            "components": [],
+            "tilemapId": "24ac9b63-b0ce-4aa2-9e63-ad2ea4d27e9c",
+            "layerName": "tree",
+            "tilesets": [
+                "Jungle_terrain"
+            ]
+        },
+        {
+            "type": "TilemapLayer",
+            "id": "c5d16ee7-8b2c-4c74-98b8-86a6dccca1f2",
+            "label": "item_tree_1",
+            "components": [],
+            "tilemapId": "53f81786-d8f4-44b5-ab25-c8879eac3a21",
+            "layerName": "item_tree",
+            "tilesets": [
+                "Jungle_terrain"
+            ]
+        },
+        {
+            "type": "TilemapLayer",
+            "id": "a2111dee-6561-41ec-b4f8-725ca9d27eeb",
+            "label": "ston_1",
+            "components": [],
+            "tilemapId": "9f98247b-0239-466c-ac59-7274364b3934",
+            "layerName": "ston",
+            "tilesets": [
+                "Jungle_terrain"
+            ]
+        },
+        {
+            "type": "TilemapLayer",
+            "id": "d9cbb002-7298-4368-81a3-e09c098e32b6",
+            "label": "sea_1",
+            "components": [],
+            "tilemapId": "3f6368b6-ac41-48f5-b769-2c0284f7129e",
+            "layerName": "sea",
+            "tilesets": [
+                "Jungle_terrain"
+            ]
+        },
+        {
+            "type": "TilemapLayer",
+            "id": "563b7aef-eedc-4757-ae1d-f099d3db3a2d",
+            "label": "ob",
+            "components": [],
+            "tilemapId": "8e1f881a-f2db-4a62-b8d6-c5319f001d8c",
+            "layerName": "ob2",
+            "tilesets": [
+                "Jungle_terrain"
+            ]
+        },
+        {
+            "type": "TilemapLayer",
+            "id": "22645e3a-7f95-487b-84b3-2c7a24dab382",
+            "label": "ob_1",
+            "components": [],
+            "tilemapId": "435ae618-bf52-47dd-9600-e3651571350c",
+            "layerName": "ob",
+            "tilesets": [
+                "Jungle_terrain"
+            ]
+        }
+    ],
+    "plainObjects": [
+        {
+            "id": "7343da4a-a401-461d-9a9a-3d58c0f4568a",
+            "type": "Tilemap",
+            "label": "map",
+            "key": "map",
+            "tilesets": [
+                {
+                    "name": "Jungle_terrain",
+                    "imageKey": "Jungle_terrain"
+                }
+            ]
+        },
+        {
+            "id": "2ab33974-91cf-4a11-ab64-b75921256b32",
+            "type": "Tilemap",
+            "label": "map_1",
+            "key": "map",
+            "tilesets": [
+                {
+                    "name": "Jungle_terrain",
+                    "imageKey": "Jungle_terrain"
+                }
+            ]
+        },
+        {
+            "id": "371eb0b7-769b-4b53-afa3-bc8d78d5276f",
+            "type": "Tilemap",
+            "label": "map_2",
+            "key": "map",
+            "tilesets": [
+                {
+                    "name": "Jungle_terrain",
+                    "imageKey": "Jungle_terrain"
+                }
+            ]
+        },
+        {
+            "id": "d59cef0e-0417-423a-892a-7a5dab04206f",
+            "type": "Tilemap",
+            "label": "map_3",
+            "key": "map",
+            "tilesets": [
+                {
+                    "name": "Jungle_terrain",
+                    "imageKey": "Jungle_terrain"
+                }
+            ]
+        },
+        {
+            "id": "ee366ac6-b4fc-47d7-b788-b475bf9416f4",
+            "type": "Tilemap",
+            "label": "map_4",
+            "key": "map",
+            "tilesets": [
+                {
+                    "name": "Jungle_terrain",
+                    "imageKey": "Jungle_terrain"
+                }
+            ]
+        },
+        {
+            "id": "24ac9b63-b0ce-4aa2-9e63-ad2ea4d27e9c",
+            "type": "Tilemap",
+            "label": "map_5",
+            "key": "map",
+            "tilesets": [
+                {
+                    "name": "Jungle_terrain",
+                    "imageKey": "Jungle_terrain"
+                }
+            ]
+        },
+        {
+            "id": "53f81786-d8f4-44b5-ab25-c8879eac3a21",
+            "type": "Tilemap",
+            "label": "map_6",
+            "key": "map",
+            "tilesets": [
+                {
+                    "name": "Jungle_terrain",
+                    "imageKey": "Jungle_terrain"
+                }
+            ]
+        },
+        {
+            "id": "9f98247b-0239-466c-ac59-7274364b3934",
+            "type": "Tilemap",
+            "label": "map_7",
+            "key": "map",
+            "tilesets": [
+                {
+                    "name": "Jungle_terrain",
+                    "imageKey": "Jungle_terrain"
+                }
+            ]
+        },
+        {
+            "id": "3f6368b6-ac41-48f5-b769-2c0284f7129e",
+            "type": "Tilemap",
+            "label": "map_8",
+            "key": "map",
+            "tilesets": [
+                {
+                    "name": "Jungle_terrain",
+                    "imageKey": "Jungle_terrain"
+                }
+            ]
+        },
+        {
+            "id": "8e1f881a-f2db-4a62-b8d6-c5319f001d8c",
+            "type": "Tilemap",
+            "label": "map_9",
+            "key": "map",
+            "tilesets": [
+                {
+                    "name": "Jungle_terrain",
+                    "imageKey": "Jungle_terrain"
+                }
+            ]
+        },
+        {
+            "id": "435ae618-bf52-47dd-9600-e3651571350c",
+            "type": "Tilemap",
+            "label": "map_10",
+            "key": "map",
+            "tilesets": [
+                {
+                    "name": "Jungle_terrain",
+                    "imageKey": "Jungle_terrain"
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 3
+    }
+}

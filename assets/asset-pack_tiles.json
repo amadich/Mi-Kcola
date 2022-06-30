@@ -1,0 +1,58 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/atlas/bg objets/bg_cloud01.png",
+                "type": "image",
+                "key": "bg_cloud01"
+            },
+            {
+                "url": "assets/atlas/bg objets/bg_cloud2.png",
+                "type": "image",
+                "key": "bg_cloud2"
+            },
+            {
+                "url": "assets/atlas/bg objets/bg_cloud3.png",
+                "type": "image",
+                "key": "bg_cloud3"
+            },
+            {
+                "url": "assets/atlas/bg objets/bg_cloud5.png",
+                "type": "image",
+                "key": "bg_cloud5"
+            },
+            {
+                "url": "assets/atlas/bg objets/bg_cloud6.png",
+                "type": "image",
+                "key": "bg_cloud6"
+            },
+            {
+                "url": "assets/atlas/bg objets/bg_cloud7.png",
+                "type": "image",
+                "key": "bg_cloud7"
+            },
+            {
+                "url": "assets/atlas/bg objets/bg_cloud8.png",
+                "type": "image",
+                "key": "bg_cloud8"
+            },
+            {
+                "url": "assets/tiles/Jungle_terrain.png",
+                "type": "image",
+                "key": "Jungle_terrain"
+            },
+            {
+                "url": "assets/tiles/map.json",
+                "type": "tilemapTiledJSON",
+                "key": "map"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

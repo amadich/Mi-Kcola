@@ -1,0 +1,62 @@
+{
+    "id": "6ab77c1f-bbfd-435a-99f1-c31ae773ce48",
+    "sceneType": "SCENE",
+    "settings": {
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "menu"
+    },
+    "displayList": [
+        {
+            "type": "Image",
+            "id": "a1cb080e-62f9-4d14-b10e-d8556d90cc6f",
+            "label": "desert",
+            "components": [],
+            "texture": {
+                "key": "desert"
+            },
+            "x": 362,
+            "y": 302,
+            "scaleX": 0.3,
+            "scaleY": 0.3
+        },
+        {
+            "type": "Image",
+            "id": "4899741f-e631-409d-95ec-62f319705409",
+            "label": "logo_Mi_Kcola",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "logo_menu"
+            },
+            "x": 450,
+            "y": -83
+        },
+        {
+            "type": "Sprite",
+            "id": "a068e410-f6cc-4bae-8740-e4144659f9af",
+            "label": "loading_run",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "loading_run",
+                "frame": 0
+            },
+            "x": 450,
+            "y": 428,
+            "scaleX": 2,
+            "scaleY": 2,
+            "tintTopLeft": "#000000",
+            "tintTopRight": "#092203",
+            "tintBottomLeft": "#000703",
+            "tintBottomRight": "#000000"
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 3
+    }
+}
